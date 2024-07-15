@@ -21,9 +21,9 @@ repository               : "Adham-Abdelazeem.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "D:\Self Study\GitHub\Adham-Abdelazeem.github.io\images\IMG-20231221-WA0003.jpg"
+  avatar           : "IMG-20231221-WA0003.jpg"
   name             : "Adham Abdelazeem"
-  pronouns         : example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Machine Learning Engineer | Data Scientist | Master's in Biomedical Engineering"
   location         : "Bremen, Germany"
   employer         : #"Red Brick University"
