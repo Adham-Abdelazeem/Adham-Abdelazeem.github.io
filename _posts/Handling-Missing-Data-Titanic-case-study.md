@@ -1,7 +1,7 @@
 ---
 title: 'Handling-Missing-Data-Titanic-case-study'
 date: 2024-07-21
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/Handling-Missing-Data-Titanic-case-study
 # tags:
 #   - cool posts
 #   - category1
