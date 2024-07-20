@@ -13,3 +13,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+# Our Origin Story
+
+---
+
+## 2020
+
+**Company Founded**
+
+- **Summary:**
+  Our company was founded with the vision to revolutionize the tech industry by providing innovative solutions.
+
+---
