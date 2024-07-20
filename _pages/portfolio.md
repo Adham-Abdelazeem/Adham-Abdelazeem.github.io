@@ -15,31 +15,33 @@ author_profile: true
 
 # My Story
 
----
-
-## 2020
-
-**Company Founded**
-
+## Jul 2024
+**Started Building my Website **
 - **Summary:**
-  Our company was founded with the vision to revolutionize the tech industry by providing innovative solutions.
+-- i got the idea to show my projects and insights to other people , to be easy for them to recognize and see all my work and achievments in one place. 
+-- and so i did 😃    
 
 ---
 
-## 2021
-
-**First Product Launched**
-
+## Jun 2024
+**Finished my Master's in Biomedical Engineering**
 - **Summary:**
-  We launched our first product, which received widespread acclaim for its user-friendly design and functionality.
+-- i have acquired a master's degree from **Anhalt University of Applied Science** located in Köthen, Germany. 
+-- my master's thesis was about " Feature Engineering, Machine Learning and Computer Vision-based Approach for Optimization of Pet Food Chunks"
 
 ---
 
-## 2022
-
-**Expansion to New Markets**
-
+## May 2023
+**i Joined Mars GmbH as Data Scientist intern**
 - **Summary:**
-  Expanded our operations to new international markets, increasing our global presence and customer base.
+-- i got accepted in a Data scientist internship and was working on improving 
+
+---
+
+## Jul 2018
+**Bachelor in Biomedical Engineering**
+- **Summary:**
+-- i have acquired a bachelor degree from Minia University located in Elminia, Egypt. 
+-- my graduation project was "Artificial Pancreas (Automated Insulin Delivery System)"
 
 ---
