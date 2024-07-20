@@ -13,7 +13,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# My Story
+# My Journey
 
 ## Jul 2024
 
