@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Example](/images/_87ecb19f-f4b9-4e8e-8ff6-813dae5d6928.jpeg){: .align-right width="300px"} 
+![Example](https://img.freepik.com/vektoren-kostenlos/vogel-bunter-logo-gradientenvektor_343694-1365.jpg?size=626&ext=jpg){: .align-right width="300px"} 
 A bit about me: I'm Adham, a **Data Scientist and Machine Learning Engineer** with a master's degree in Biomedical Engineering from Anhalt University of Applied Science in Köthen, Germany. (You can find more details about me in my Portfolio and CV.)
 
 I created this website to share my **projects**, **insights**, and **experiences** from my learning journey. While I could share my work on GitHub or LinkedIn, I wanted a space to not only showcase my projects but also my blogs, curriculum vitae, and any other updates. This website is an essential step for me to document my work and share it with those who might find it useful.
