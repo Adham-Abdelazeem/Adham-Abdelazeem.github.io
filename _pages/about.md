@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- width="300px" -->
 
-![Example](/images/_87ecb19f-f4b9-4e8e-8ff6-813dae5d6928.jpeg){: .align-right width="300px"}
+![Example](/images/_87ecb19f-f4b9-4e8e-8ff6-813dae5d6928.jpeg){: .align-right } 
 A bit about me: I'm Adham, a **Data Scientist and Machine Learning Engineer** with a master's degree in Biomedical Engineering from Anhalt University of Applied Science in Köthen, Germany. (You can find more details about me in my Portfolio and CV.)
 
 I created this website to share my **projects**, **insights**, and **experiences** from my learning journey. While I could share my work on GitHub or LinkedIn, I wanted a space to not only showcase my projects but also my blogs, curriculum vitae, and any other updates. This website is an essential step for me to document my work and share it with those who might find it useful.
@@ -17,36 +18,7 @@ My goal for this website is to connect with like-minded individuals, contribute 
 > Feel free to get in touch!
 
 
-# Our Origin Story
 
----
-
-## 2020
-
-**Company Founded**
-
-- **Summary:**
-  Our company was founded with the vision to revolutionize the tech industry by providing innovative solutions.
-
----
-
-## 2021
-
-**First Product Launched**
-
-- **Summary:**
-  We launched our first product, which received widespread acclaim for its user-friendly design and functionality.
-
----
-
-## 2022
-
-**Expansion to New Markets**
-
-- **Summary:**
-  Expanded our operations to new international markets, increasing our global presence and customer base.
-
----
 
 
 
