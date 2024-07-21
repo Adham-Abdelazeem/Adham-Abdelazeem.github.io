@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+analytics: true
 ---
 
 ![Example](../images/87ecb19f-f4b9-4e8e-8ff6-813dae5d6928.jpg){: .align-right width="300px"} 
