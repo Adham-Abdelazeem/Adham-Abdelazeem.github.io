@@ -3,7 +3,7 @@ layout: archive
 # title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
-analytics: false #true
+analytics: true
 
 ---
 
