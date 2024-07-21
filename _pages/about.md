@@ -19,7 +19,10 @@ analytics: true
 > Feel free to get in touch!
 
 
+---
+# News
 
+- I'm currently working on earning the Azure Data Scientist Associate certification through Microsoft's learning path. You can follow my journey and find more details about the learning path on my website [here](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/?ns-enrollment-type=Collection&ns-enrollment-id=bookmarks&practice-assessment-type=certification).
 
 
 
