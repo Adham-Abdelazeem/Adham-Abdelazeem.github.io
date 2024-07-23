@@ -84,7 +84,7 @@ analytics: true
 
 <p>
   <strong>Started Remote Internship with ZUMMIT INFOLABS</strong>
-  <img src="../images/zlogo.png" alt="ZUMMIT INFOLABS Logo" width="50" style="vertical-align: middle; margin-left: 10px;"/>
+  <img src="../images/zlogo.png" alt="ZUMMIT INFOLABS Logo" width="100" style="vertical-align: middle; margin-left: 10px;"/>
   
 </p> 
 
