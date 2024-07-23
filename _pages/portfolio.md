@@ -53,9 +53,9 @@ analytics: true
 ### Scissor Paper Rock Game (University Project)
 
 <p align="center">
-  <img src="../images/Screenshot 2023-09-14 141958.png" alt="Image 1" width="340" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2023-09-14 142050.png" alt="Image 2" width="340" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2023-09-14 142136.png" alt="Image 3" width="340" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 141958.png" alt="Image 1" width="300" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 142050.png" alt="Image 2" width="300" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 142136.png" alt="Image 3" width="300" style="margin: 10px;"/>
 </p>
 
 - **Summary:**
@@ -88,6 +88,14 @@ analytics: true
 ## Jul 2022
 
 ### Dishware Images Classification (University Project)
+
+<p align="center">
+  <img src="../images/Screenshot 2022-09-30 204509.png" alt="Image 1" width="250" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2022-09-30 204536.png" alt="Image 2" width="250" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2022-09-30 204608.png" alt="Image 3" width="250" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2022-09-30 204621.png" alt="Image 3" width="250" style="margin: 10px;"/>
+
+</p>
 
 - **Summary:**
   - First experience with Machine Learning.
