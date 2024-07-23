@@ -66,8 +66,10 @@ analytics: true
 
 ## May 2023
 
-### Joined Mars GmbH as Data Scientist Intern <p>
+<!-- ### Joined Mars GmbH as Data Scientist Intern  -->
+<p>
   <img src="../images/media_resources_-_mars_petcare_lockup_rgb.png" alt="Mars GmbH Logo" width="50" style="vertical-align: middle; margin-right: 10px;"/>
+  <strong>Joined Mars GmbH as Data Scientist Intern</strong>
 </p> 
 
 - **Summary:**
