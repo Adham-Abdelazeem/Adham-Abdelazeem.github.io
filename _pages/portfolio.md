@@ -88,7 +88,7 @@ analytics: true
   
 </p> 
 
-### Started Remote Internship with ZUMMIT INFOLABS
+<!-- ### Started Remote Internship with ZUMMIT INFOLABS -->
 
 - **Summary:**
   - The role involved problem-solving skills by applying MLOps, Data Pipelines, and various ML models including Neural Networks, SVM, and Deep Learning.
