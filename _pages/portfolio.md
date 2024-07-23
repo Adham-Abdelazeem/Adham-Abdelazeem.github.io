@@ -82,6 +82,12 @@ analytics: true
 
 ## Oct 2022
 
+<p>
+  <strong>Started Remote Internship with ZUMMIT INFOLABS</strong>
+  <img src="../images/zlogo.png" alt="ZUMMIT INFOLABS Logo" width="50" style="vertical-align: middle; margin-left: 10px;"/>
+  
+</p> 
+
 ### Started Remote Internship with ZUMMIT INFOLABS
 
 - **Summary:**
