@@ -8,7 +8,7 @@ redirect_from:
 analytics: true
 ---
 
-![Example](../images/87ecb19f-f4b9-4e8e-8ff6-813dae5d6928.jpg){: .align-right width="300px"} 
+![Example](../images/OIG3.jpeg){: .align-right width="300px"} 
 
 👉 A bit about me: I'm Adham, a **Data Scientist and Machine Learning Engineer** with a master's degree in Biomedical Engineering from Anhalt University of Applied Science in Köthen, Germany. (You can find more details about me in my Portfolio and CV.)
 
