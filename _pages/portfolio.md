@@ -90,10 +90,10 @@ analytics: true
 ### Dishware Images Classification (University Project)
 
 <p align="center">
-  <img src="../images/Screenshot 2022-09-30 204509.png" alt="Image 1" width="230" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2022-09-30 204536.png" alt="Image 2" width="230" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2022-09-30 204608.png" alt="Image 3" width="230" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2022-09-30 204621.png" alt="Image 3" width="230" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2022-09-30 204509.png" alt="Image 1" width="230"/>
+  <img src="../images/Screenshot 2022-09-30 204536.png" alt="Image 2" width="230"/>
+  <img src="../images/Screenshot 2022-09-30 204608.png" alt="Image 3" width="230"/>
+  <img src="../images/Screenshot 2022-09-30 204621.png" alt="Image 3" width="230"/>
 
 </p>
 
