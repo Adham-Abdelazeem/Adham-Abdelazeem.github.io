@@ -53,9 +53,9 @@ analytics: true
 ### Scissor Paper Rock Game (University Project)
 
 <p align="center">
-  <img src="../images/Screenshot 2023-09-14 141958.png" alt="Image 1" width="240" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2023-09-14 142050.png" alt="Image 2" width="240" style="margin: 10px;"/>
-  <img src="../images/Screenshot 2023-09-14 142136.png" alt="Image 3" width="240" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 141958.png" alt="Image 1" width="340" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 142050.png" alt="Image 2" width="340" style="margin: 10px;"/>
+  <img src="../images/Screenshot 2023-09-14 142136.png" alt="Image 3" width="340" style="margin: 10px;"/>
 </p>
 
 - **Summary:**
