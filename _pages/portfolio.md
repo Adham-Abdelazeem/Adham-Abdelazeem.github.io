@@ -52,6 +52,12 @@ analytics: true
 
 ### Scissor Paper Rock Game (University Project)
 
+<p align="center">
+  <img src="../images/Screenshot 2023-09-14 141958.png" alt="Image 1" width="200"/>
+  <img src="../images/Screenshot 2023-09-14 142050.png" alt="Image 2" width="200"/>
+  <img src="../images/Screenshot 2023-09-14 142136.png" alt="Image 3" width="200"/>
+</p>
+
 - **Summary:**
   - Developed a game that detects and identifies different hand gestures (scissor, paper, rock) using the Mediapipe Python package.
   - Enhanced my machine learning and computer vision skills through this project.
